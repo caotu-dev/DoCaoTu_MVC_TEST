@@ -1,2 +1,3 @@
 # DoCaoTu_MVC_TEST
-MVC TEST
+TO RUN THIS PROJECT : http://localhost/DoCaoTu_PHP_MVC_TEST/
+
